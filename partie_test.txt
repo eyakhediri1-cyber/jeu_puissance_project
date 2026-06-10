@@ -1,0 +1,4 @@
+Joueur 1: Joueur Rouge
+Joueur 2: Joueur Jaune
+Date: 2026-05-20
+Coups:
