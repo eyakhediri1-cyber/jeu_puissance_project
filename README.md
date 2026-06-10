@@ -76,4 +76,4 @@ L'agent suit 4 priorités ordonnées :
 
 ---
 
-*Projet académique — Atelier Bases de Données · ISET Sousse DSI2*
+*Projet académique · ISET Sousse DSI2*
